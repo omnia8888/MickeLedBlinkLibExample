@@ -85,6 +85,6 @@ extern "C" void __cxa_pure_virtual() {;}
 #define portInputRegister(P)
 #define portModeRegister(P)
 #include <..\MickeLedBlinkLibExample\MickeLedBlinkLibExample.ino>
-#include <src\_micro-api\libraries\MickeLedBlinkLibExampleLib\src\MickeLedBlinkLibExampleLib.cpp>
-#include <src\_micro-api\libraries\MickeLedBlinkLibExampleLib\src\MickeLedBlinkLibExampleLib.h>
+#include <..\MickeLedBlinkLibExample\MickeLedPulse.cpp>
+#include <..\MickeLedBlinkLibExample\MickeLedPulse.h>
 #endif
