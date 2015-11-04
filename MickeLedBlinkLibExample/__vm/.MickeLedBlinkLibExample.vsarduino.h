@@ -87,4 +87,6 @@ extern "C" void __cxa_pure_virtual() {;}
 #include <..\MickeLedBlinkLibExample\MickeLedBlinkLibExample.ino>
 #include <..\MickeLedBlinkLibExample\MickeLedPulse.cpp>
 #include <..\MickeLedBlinkLibExample\MickeLedPulse.h>
+#include <src\_micro-api\libraries\MickeLedToggle\src\MickeLedToggle.cpp>
+#include <src\_micro-api\libraries\MickeLedToggle\src\MickeLedToggle.h>
 #endif

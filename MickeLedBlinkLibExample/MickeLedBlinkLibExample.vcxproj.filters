@@ -19,7 +19,7 @@
     <None Include="src\_micro-api\libraries\MickeLedBlinkLibExampleLib\library.properties" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MickeLedPulse.cpp">
+    <ClCompile Include="src\_micro-api\libraries\MickeLedToggle\src\MickeLedToggle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -27,7 +27,7 @@
     <ClInclude Include="__vm\.MickeLedBlinkLibExample.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MickeLedPulse.h">
+    <ClInclude Include="src\_micro-api\libraries\MickeLedToggle\src\MickeLedToggle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
